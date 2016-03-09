@@ -1,0 +1,275 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201602 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.makeitcourses.com.ua.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2000                
+POS_TIME 2682                
+POS_VISITOR 6182                
+POS_DAY 6963                
+POS_DOMAIN 3263                
+POS_LOGIN 3493                
+POS_ROBOT 3648                
+POS_WORMS 3814                
+POS_EMAILSENDER 3945                
+POS_EMAILRECEIVER 4088                
+POS_SESSION 7071                
+POS_SIDER 7251                
+POS_FILETYPES 4223                
+POS_DOWNLOADS 4409                
+POS_OS 4477                
+POS_BROWSER 4589                
+POS_SCREENSIZE 4783                
+POS_UNKNOWNREFERER 4857                
+POS_UNKNOWNREFERERBROWSER 4944                
+POS_ORIGIN 5026                
+POS_SEREFERRALS 5161                
+POS_PAGEREFS 5305                
+POS_SEARCHWORDS 5565                
+POS_KEYWORDS 5717                
+POS_MISC 2345                
+POS_ERRORS 5776                
+POS_CLUSTER 3349                
+POS_SIDER_404 5873                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20160202015506 379 91802 8737336209219
+FirstTime 20160201004719
+LastTime 20160202000543
+LastUpdate 20160202040223 379 0 379 0 0
+TotalVisits 20                  
+TotalUnique 17                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 17                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 12 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 4 47 2748813 1 2 1626
+1 0 0 0 1 1 1152
+2 0 0 0 0 0 0
+3 0 0 0 0 0 0
+4 0 0 0 0 0 0
+5 0 0 0 0 0 0
+6 0 0 0 0 0 0
+7 0 0 0 0 0 0
+8 0 0 0 0 0 0
+9 0 0 0 1 2 1483
+10 0 0 0 0 0 0
+11 5 28 1376252 0 2 948
+12 6 27 1475354 3 4 1881
+13 0 0 0 0 0 0
+14 4 46 1767655 0 0 0
+15 7 71 4122984 1 4 2619
+16 2 23 1374170 0 1 474
+17 3 24 1374170 0 1 474
+18 2 23 1374170 0 1 474
+19 1 1 0 0 0 0
+20 2 23 1374170 0 1 474
+21 2 23 1374170 0 0 0
+22 4 46 2748340 0 2 948
+23 0 0 0 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 42 382 21110248
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 1
+googlebot 4 3787 20160202015506 1
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 7
+map 2 101184 0 0
+css 33 812592 0 0
+png 2 948 0 0
+html 40 53825 0 0
+jpg 16 5371616 0 0
+js 273 14761203 0 0
+svg 16 8880 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/robots.txt 1 0 331
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 7
+macosx 46
+linuxandroid 24
+winxp 24
+winnt 46
+winvista 70
+linux 9
+win7 163
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 8
+iphone 23
+chrome44.0.2403.125 9
+chrome47.0.2526.80 23
+firefox44.0 24
+firefox43.0 24
+chrome48.0.2564.97 232
+chrome47.0.2526.83 24
+safari8.0.6 23
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 11 13
+From1 0 0
+From2 0 0
+From3 8 8
+From4 23 361
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 4
+http://vk.com/makeit_courses 3 3
+http://vk.com/away.php 3 3
+http://m.vk.com/away.php 1 1
+http://vk.com/feed 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+503 3 1407
+206 2 1671
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 0
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 17
+91.195.96.95 7 9 2082 20160201173424
+37.57.242.84 4 47 2748814 20160201153247
+188.0.82.74 4 46 1767655 20160201145112
+91.218.192.106 4 25 1475354 20160201125808
+95.135.247.239 2 23 1374170 20160201180456
+95.133.43.210 2 23 1374170 20160201201448
+193.161.12.49 2 23 1374170 20160201150946
+46.219.252.206 2 23 1374170 20160201220359
+176.120.115.251 2 23 1374170 20160201163437
+134.249.235.116 2 23 1374170 20160201111704
+66.249.93.48 1 8 461020 20160201193424
+66.249.93.46 1 11 569061 20160201174016
+66.249.93.50 1 5 344089 20160201174017
+176.118.49.168 2 24 1374643 20160201004721
+193.161.14.133 2 23 1374170 20160201220355
+176.120.114.14 2 23 1374170 20160202000543
+91.214.84.167 2 23 1374170 20160201214915
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 2
+20160201 40 359 19736078 19
+20160202 2 23 1374170 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+5mn-15mn 2
+15mn-30mn 1
+2mn-5mn 1
+0s-30s 16
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 4
+/partials/main.html 23 35393 5 18
+/ 17 18432 15 1
+/resources/js/angular-cookies.min.js.map 1 1316 0 0
+/resources/js/angular.min.js.map 1 99868 0 1
+END_SIDER
